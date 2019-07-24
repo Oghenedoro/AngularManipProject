@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\node_modules\\jquery",
+    "\\node_modules\\jquery\\dist",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\node_modules\\jquery\\bower.json",
+  "PreviewInSolutionExplorer": false
+}
