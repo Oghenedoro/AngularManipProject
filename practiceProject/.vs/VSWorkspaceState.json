@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\node_modules",
-    "\\node_modules\\jquery",
-    "\\node_modules\\jquery\\dist",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\employees",
+    "\\src\\app\\employees\\create-employee",
+    "\\src\\app\\employees\\display-employee",
+    "\\src\\app\\employees\\employee-details",
+    "\\src\\app\\employees\\list-emplotees",
+    "\\src\\app\\share",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\node_modules\\jquery\\bower.json",
+  "SelectedNode": "\\src\\app\\employees\\display-employee\\display-employee.component.ts",
   "PreviewInSolutionExplorer": false
 }

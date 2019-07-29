@@ -1,6 +1,11 @@
-
-<div class="container">
-  <app-list-emplotees></app-list-emplotees>
-</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div>
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="list">List</a>
+      <a class="nav-item nav-link" routerLink="create">Create</a>
+      <a class="nav-item nav-link" [routerLink]="['employees', 2]">Get employees 2</a>
+    </div>
+  </div>
+</nav>
 
 <router-outlet></router-outlet>
