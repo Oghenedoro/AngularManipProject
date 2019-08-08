@@ -8,9 +8,9 @@
     "\\src\\app\\employees\\display-employee",
     "\\src\\app\\employees\\employee-details",
     "\\src\\app\\employees\\list-emplotees",
-    "\\src\\app\\share",
-    "\\src\\assets"
+    "\\src\\app\\forms",
+    "\\src\\app\\forms\\reactive-forms"
   ],
-  "SelectedNode": "\\src\\app\\employees\\display-employee\\display-employee.component.ts",
+  "SelectedNode": "\\src\\app\\employees\\display-employee\\display-employee.component.spec.ts",
   "PreviewInSolutionExplorer": false
 }
